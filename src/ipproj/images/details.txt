@@ -1,0 +1,5 @@
+distance
+per km = 40
+bmw=1.5x
+audi=1x
+merc=1.25x
